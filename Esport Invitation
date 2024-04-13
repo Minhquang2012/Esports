@@ -1,0 +1,30 @@
+<html> 
+    <title>Esport International Competition</title>
+    <body style="background-color : black ">
+        <header>
+            <img src="https://t3.ftcdn.net/jpg/04/52/14/56/360_F_452145633_nYUYdMdnHZ44sJbrgW9BfRcPbBIUxTXP.jpg";width = "50px" height="80px">
+            <h1 style="text-align : center;color : white;font-family : sans-serif">You're invited to the International Esport competition!</h1>
+        </header>
+        <main>
+          <img src="https://media.istockphoto.com/id/1411414490/photo/diverse-blue-pro-gamer-team-with-female-players-competing-at-video-game-esport-championship.jpg?s=612x612&w=0&k=20&c=2WyE9Np3FAAd76dL9DuqF1TrzS39gKPtgGXs9_PI4YA="width="1000px">  
+            <p style="color : white;font-family : sans-serif"><b><i>In this website you'll going to understand the information about the competition</i></b></p>
+            <table border="blue solid 1px">
+                <tr>
+                    <td style="color : white;font-family : sans-serif">Games</td>
+                    <td style="color : white;font-family : sans-serif">Time</td>
+                    <td style="color : white;font-family : sans-serif">Location</td>
+                </tr>
+                <tr>
+                    <td style="color : white;font-family : sans-serif">COD</td>
+                    <td style="color : white;font-family : sans-serif">5:30</td>
+                    <td style="color : white;font-family : sans-serif">The Stadium of My Dinh</td>
+                </tr>
+            </table>
+        </main>
+        <footer style="background-color:darkgreen">
+            <p style="color : white;font-family : sans-serif"><b><i>Our Contact</i></b> : 1111111111</p>
+            <p style="color : white;font-family : sans-serif"><b><i>Email</i></b> : EsportInternational@gmail.com</p>
+            </footer>
+            
+    </body>
+</html>
